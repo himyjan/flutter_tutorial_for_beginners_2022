@@ -1,5 +1,13 @@
 # flutter_tutorial_for_beginners_2022
 
+```
+How To Learn Flutter For Beginners - NEW
+https://www.youtube.com/watch?v=5DvtHChJ-Vk
+
+Flutter Tutorial For Beginners In 1 Hour - 2022
+https://www.youtube.com/watch?v=C-fKAzdTrLU
+```
+
 A new Flutter project.
 
 ## Getting Started
